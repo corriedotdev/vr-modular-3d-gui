@@ -5,7 +5,7 @@
 [![alt text](https://pbs.twimg.com/media/F1HAGbZXwAM2_qw?format=jpg&name=4096x4096)
 
 
-[Link to build](https://github.com/corriedotdev/VR-Research/releases/tag/3d) | [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) (or ask me for a copy)
+[Link to build](https://github.com/corriedotdev/vr-modular-3d-gui/releases/tag/vr) | [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) (or ask me for a copy)
 </div>
 
 This project contains fundemental design concepts for a modular 3D interface, a presentation format of the paper can be found on youtube [here](https://youtu.be/3NhJOPAUMCs)
