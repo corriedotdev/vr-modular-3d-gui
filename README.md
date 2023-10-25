@@ -10,6 +10,8 @@
 
 This project contains fundemental design concepts for a modular 3D interface, a presentation format of the paper can be found on youtube [here](https://youtu.be/3NhJOPAUMCs)
 
+For a Quest Standalone build of some of the concepts download from the google drive repo [here](https://drive.google.com/file/d/1f1UChn_PTZ3-zaEyFtoxdKnl6UutDm4u/view?usp=sharing)
+
 This repo is to go alongside its paper counterpart which is published.
 
 * Modular James Web Telescope Viewer allowing for viewing the telescopes latest visuals in a cubemap enviornment. Showcasing the button panels and 3D slider
