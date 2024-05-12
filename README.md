@@ -3,6 +3,13 @@
 <div align="center">
 
 [![alt text](https://pbs.twimg.com/media/F1HAGbZXwAM2_qw?format=jpg&name=4096x4096)
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/corriedotdev/ev-dataset/blob/main/ChargeScotland/1.gif?raw=true" alt="Corrie UI Animation 1"></td>
+    <td align="center"><img src="https://github.com/corriedotdev/ev-dataset/blob/main/ChargeScotland/2.gif?raw=true" alt="Corrie UI Animation 2"></td>
+    <td align="center"><img src="https://github.com/corriedotdev/ev-dataset/blob/main/ChargeScotland/3.gif?raw=true" alt="Corrie UI Animation 3"></td>
+  </tr>
+</table>
 
 
 [Link to pre-print](https://arxiv.org/abs/2304.10541) | [Link to paper](https://link.springer.com/chapter/10.1007/978-3-031-35634-6_2) (or ask me for a copy) | [Link to Website]()
