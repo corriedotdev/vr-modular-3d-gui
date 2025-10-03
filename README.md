@@ -34,6 +34,7 @@ This repo is to go alongside its paper counterpart which is published.
 
 * Modular James Web Telescope Viewer allowing for viewing the telescopes latest visuals in a cubemap enviornment. Showcasing the button panels and 3D slider
 
+🚨 Note: Unity security patches have been applied to release builds.
 
 <div align="center">
   
